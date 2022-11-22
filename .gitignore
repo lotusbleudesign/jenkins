@@ -32,8 +32,8 @@ creds.js
  
 # Mac/OSX
 .DS_Store
- 
- 
+.angular/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
