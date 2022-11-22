@@ -1,0 +1,5 @@
+<div class="grid">
+  <div *ngFor=" let myfaceSnap of myfaceSnapParent$ | async">
+    <app-face-snap [faceSnapEnfant]="myfaceSnap"></app-face-snap>
+  </div>
+</div>
